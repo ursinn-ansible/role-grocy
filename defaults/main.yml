@@ -1,0 +1,8 @@
+---
+role_grocy_image: 'lscr.io/linuxserver/grocy'
+role_grocy_container: 'grocy'
+role_grocy_puid: '1000'
+role_grocy_pgid: '1000'
+role_grocy_tz: 'Europe/Zurich'
+role_grocy_dir: '/opt/app-grocy'
+role_grocy_network: 'app-network'
